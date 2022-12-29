@@ -2,5 +2,6 @@ Hola jajaj
 Este es sebastian
 
 Estoy aprendiendo a manejar git y github
+sebitas colaborador estuvo aquí
 
 holii 
